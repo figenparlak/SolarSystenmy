@@ -3,5 +3,6 @@ public class SUN {
     String color;
    int radius;
     String temprature;
+    // burada isler karisti
 
 }
