@@ -7,5 +7,14 @@ public class Main {
 
 
         System.out.println("the basic structure is ready");
+
+        // !!!!! bu proje yi githubdan clone layip intelijde actim
+        // developing the featureSun
+        SUN  omaro = new SUN();
+        omaro.temprature= "1236454kj";
+        omaro.name= "ferro";
+        omaro.radius= 19383763738282929290;
     }
+
+
 }
