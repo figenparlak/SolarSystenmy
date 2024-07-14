@@ -7,5 +7,18 @@ public class Main {
 
 
         System.out.println("the basic structure is ready");
+
+        // !!!!! bu proje yi githubdan clone layip intelijde actim
+        // developing the featureSun
+        SUN  omaro = new SUN();
+        omaro.temprature= "1236454kj";
+        omaro.name= "ferro";
+        omaro.radius= 1938;
+
+        Planet1 superPlanet = new Planet1();
+        superPlanet.color="magenta";
+
+         superPlanet.name="hash";
+        superPlanet.size="548282km";
     }
 }
