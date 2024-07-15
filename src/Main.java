@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println("the basic structure is ready");
 
+<<<<<<< HEAD
         // !!!!! bu proje yi githubdan clone layip intelijde actim
         // developing the featureSun
         SUN  omaro = new SUN();
@@ -20,5 +21,12 @@ public class Main {
 
          superPlanet.name="hash";
         superPlanet.size="548282km";
+=======
+        Planet2 superwomen = new Planet2();
+        superwomen.color ="green";
+                superwomen.name="pliea";
+
+        superwomen.size="2626262626";
+>>>>>>> Planet2
     }
 }
