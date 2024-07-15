@@ -7,5 +7,11 @@ public class Main {
 
 
         System.out.println("the basic structure is ready");
+
+        Planet2 superwomen = new Planet2();
+        superwomen.color ="green";
+                superwomen.name="pliea";
+
+        superwomen.size="2626262626";
     }
 }
