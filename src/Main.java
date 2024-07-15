@@ -9,12 +9,16 @@ public class Main {
         System.out.println("the basic structure is ready");
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> FeatureSun
         // !!!!! bu proje yi githubdan clone layip intelijde actim
         // developing the featureSun
         SUN  omaro = new SUN();
         omaro.temprature= "1236454kj";
         omaro.name= "ferro";
         omaro.radius= 1938;
+<<<<<<< HEAD
 
         Planet1 superPlanet = new Planet1();
         superPlanet.color="magenta";
@@ -28,5 +32,9 @@ public class Main {
 
         superwomen.size="2626262626";
 >>>>>>> Planet2
+=======
+>>>>>>> FeatureSun
     }
+
+
 }
